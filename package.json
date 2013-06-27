@@ -1,0 +1,14 @@
+{
+    "name": "bn-website",
+        "description": "Biblionarrator website",
+        "version": "0.0.1",
+        "private": true,
+        "dependencies": {
+            "consolidate": "0.x",
+            "express": "3.x",
+            "gremlin": "0.x",
+            "nodemailer": "0.x",
+            "mustache": "0.x"
+        }
+}
+
